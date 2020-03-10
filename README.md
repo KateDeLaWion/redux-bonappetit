@@ -1,3 +1,12 @@
+The purpose of the project:
+I am often tired of thinking what I should eat.   Instead of racking my brain, which I should use for coding, I decided to make this app to suggest to me what to eat and provide me recipes so I can make delicious food. 
+
+The target end user for this program is someone who can use some suggestions of food choice.   The recipes are good for end users who enjoy cooking.
+
+This app is deployed at 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

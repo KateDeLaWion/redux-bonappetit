@@ -4,7 +4,7 @@ I am often tired of thinking what I should eat.   Instead of racking my brain, w
 The end user for this program:
 can use some suggestions of food choice.   The recipes are good for end users who enjoy cooking.
 
-
+My app is deployed in Firebase.  Url is https://bonappetit-kw.firebaseapp.com
 
 
 

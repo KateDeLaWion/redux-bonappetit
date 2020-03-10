@@ -1,8 +1,7 @@
 The purpose of the project:
 I am often tired of thinking what I should eat.   Instead of racking my brain, which I should use for coding, I decided to make this app to suggest to me what to eat and provide me recipes so I can make delicious food. 
 
-The end user for this program:
-can use some suggestions of food choice.   The recipes are good for end users who enjoy cooking.
+The target end user for this program is someone who is interested in saving time on seleciing his or her kind of food or meal. He or she can also learn some good recipes and cooking skills from this app. 
 
 My app is deployed in Firebase.  Url is https://bonappetit-kw.firebaseapp.com
 

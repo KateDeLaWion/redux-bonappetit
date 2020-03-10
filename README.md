@@ -3,15 +3,9 @@ I am often tired of thinking what I should eat.   Instead of racking my brain, w
 
 It is also deployed as below url.
 
-<<<<<<< HEAD
 The target end user for this program is someone who can use some suggestions of food choice.   The recipes are good for end users who enjoy cooking.
 
 This app is deployed at 
-=======
-The target end user for this program is someone who is interested in saving time on seleciing his or her kind of food or meal. He or she can also learn some good recipes and cooking skills from this app. 
-
-My app is deployed in Firebase.  Url is https://bonappetit-kw.firebaseapp.com
->>>>>>> 523737b6efded329821fe9c4411495074cbe4e67
 
 
 

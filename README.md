@@ -1,3 +1,5 @@
+This project is deployed at  https://bonappetit-project.firebaseapp.com   
+
 The purpose of the project:
 I am often tired of thinking what I should eat.   Instead of racking my brain, which I should use for coding, I decided to make this app to suggest to me what to eat and provide me recipes so I can make delicious food. 
 
